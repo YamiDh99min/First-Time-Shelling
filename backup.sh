@@ -1,6 +1,6 @@
 
 #!/bin/bash
-    
+     
 # This bash script is used to backup a user's home directory to /tmp/.
     
 function backup {
